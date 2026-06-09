@@ -1,65 +1,82 @@
 <div align="center">
 
-# BAT9BROS
+# ██████╗  █████╗ ████████╗ █████╗ ██████╗ ██████╗ ██████╗  ██████╗ ███████╗
+# ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔════╝
+# ██████╔╝███████║   ██║   ╚██████║██████╔╝██████╔╝██████╔╝██║   ██║███████╗
+# ██╔══██╗██╔══██║   ██║    ╚═══██║██╔══██╗██╔═══╝ ██╔══██╗██║   ██║╚════██║
+# ██████╔╝██║  ██║   ██║    █████╔╝██████╔╝██║     ██║  ██║╚██████╔╝███████║
+# ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚════╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
 ```txt
-┌──────────────────────────────────────────────┐
-│ SYSTEM ONLINE                                │
-│ STATUS: ACTIVE                               │
-│ ROLE: ARTIST / CYBERSECURITY DEVELOPER       │
-│ LOCATION: SOMEWHERE IN THE VOID              │
-└──────────────────────────────────────────────┘
+[BOOTING...]
+
+Loading consciousness................OK
+Loading music engine.................OK
+Loading cybersecurity module.........OK
+Loading bad decisions................OK
+
+Welcome to BAT9BROS.EXE
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=ARTIST.;CYBERSECURITY+DEVELOPER.;BUILDING+STRANGE+THINGS.;MAKING+LOUD+MUSIC.;WELCOME+TO+THE+SYSTEM."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=500&color=00FF66&center=true&vCenter=true&width=1000&lines=ARTIST.;CYBERSECURITY+DEVELOPER.;CREATING+THINGS+THAT+SHOULD+NOT+EXIST.;ERROR:+REALITY+NOT+FOUND."/>
 
 </div>
 
 ---
 
-# WHO AM I
+# // IDENTITY.LOG
 
-```yaml
-name: BAT9BROS
-class: Human
-occupation:
-  - Artist
-  - Cybersecurity Developer
-
-current_status:
-  - creating software
-  - producing music
-  - surviving reality
-
-goal:
-  - build legendary projects
-  - perform on huge stages
-  - leave digital footprints
+```rust
+pub struct BAT9BROS {
+    role: ["Artist", "Cybersecurity Developer"],
+    status: "Online",
+    location: "Unknown",
+    sanity: false,
+    mission: "Create. Destroy. Improve. Repeat."
+}
 ```
 
 ---
 
-# TECH STACK
+# // SYSTEM STATUS
 
-<p align="center">
+```diff
++ MUSIC PRODUCTION ACTIVE
++ PROJECT DEVELOPMENT ACTIVE
++ BRAIN OVERCLOCKED
++ CAFFEINE LEVEL CRITICAL
 
-<img src="https://skillicons.dev/icons?i=cs,js,html,css,python,vscode,git,github"/>
-
-</p>
+- SLEEP NOT FOUND
+- NORMAL LIFE NOT FOUND
+```
 
 ---
 
-# PROJECTS
+# // ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,js,html,css,python,git,github,vscode"/>
+
+</div>
+
+---
+
+# // CLASSIFIED PROJECTS
 
 ## 🎹 CONTROL CENTER MUSIC
 
 ```txt
-[ OFFLINE MUSIC PRODUCTION MANAGER ]
+███████████████████████████████████████████
 
-✓ Track organization
-✓ Music workflow management
-✓ Fast access to projects
-✓ Built for producers
+OFFLINE MUSIC PRODUCTION MANAGER
+
+> organize projects
+> manage tracks
+> optimize workflow
+> built by a producer for producers
+
+███████████████████████████████████████████
 ```
 
 ---
@@ -67,39 +84,55 @@ goal:
 ## 🤖 AI LAUNCH NEXUS
 
 ```txt
-[ COLLEGE PROJECT ]
+███████████████████████████████████████████
 
-> AI-based web platform
-> Experimental concepts
-> Learning by building
+COLLEGE PROJECT
+
+AI WEB PLATFORM
+
+STATUS: EXPERIMENTAL
+
+███████████████████████████████████████████
 ```
 
 ---
 
-# CURRENT TRANSMISSION
+# // LIVE FEED
 
 ```txt
-> listening to distorted 808s
-> writing code at 3 AM
-> turning ideas into projects
-> pretending everything is under control
+03:12 AM
+
+monitor glow
+808s shaking the room
+code compiling
+brain deteriorating
+
+everything normal
 ```
 
 ---
 
-# DIGITAL FOOTPRINT
+# // NETWORK ACCESS
+
+```txt
+TELEGRAM      :: https://t.me/bat9bros
+BEATS         :: https://t.me/bat9bros_beats
+SOUNDCLOUD    :: https://soundcloud.com/hayp-143
+GENIUS        :: https://genius.com/bat9bros
+SUPPORT       :: https://www.donationalerts.com/r/bat9bros
+```
+
+---
+
+# // TELEMETRY
 
 <div align="center">
 
-[ TELEGRAM ](https://t.me/bat9bros)
+![](https://github-readme-stats.vercel.app/api?username=bat9bros&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-[ BEATS ](https://t.me/bat9bros_beats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bat9bros&theme=chartreuse-dark&hide_border=true)
 
-[ SOUNDCLOUD ](https://soundcloud.com/hayp-143)
-
-[ GENIUS ](https://genius.com/bat9bros)
-
-[ SUPPORT ](https://www.donationalerts.com/r/bat9bros)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bat9bros&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 </div>
 
@@ -107,13 +140,15 @@ goal:
 
 <div align="center">
 
-## SYSTEM METRICS
+```txt
+THEY ASKED:
 
-![](https://github-readme-stats.vercel.app/api?username=bat9bros&show_icons=true&theme=tokyonight&hide_border=true)
+"WHY CODE?"
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bat9bros&theme=tokyonight&hide_border=true)
+I ASKED:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bat9bros&layout=compact&theme=tokyonight&hide_border=true)
+"WHY BREATHE?"
+```
 
 </div>
 
@@ -122,9 +157,9 @@ goal:
 <div align="center">
 
 ```txt
-NO GODS.
-NO MASTERS.
-ONLY CODE AND MUSIC.
+END OF TRANSMISSION
+
+SIGNAL LOST
 ```
 
 </div>
