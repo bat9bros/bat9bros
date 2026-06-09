@@ -1,165 +1,123 @@
 <div align="center">
 
-# ██████╗  █████╗ ████████╗ █████╗ ██████╗ ██████╗ ██████╗  ██████╗ ███████╗
-# ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔════╝
-# ██████╔╝███████║   ██║   ╚██████║██████╔╝██████╔╝██████╔╝██║   ██║███████╗
-# ██╔══██╗██╔══██║   ██║    ╚═══██║██╔══██╗██╔═══╝ ██╔══██╗██║   ██║╚════██║
-# ██████╔╝██║  ██║   ██║    █████╔╝██████╔╝██║     ██║  ██║╚██████╔╝███████║
-# ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚════╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+# bat9bros
 
-```txt
-[BOOTING...]
+making music, building software, documenting the process.
 
-Loading consciousness................OK
-Loading music engine.................OK
-Loading cybersecurity module.........OK
-Loading bad decisions................OK
+<br>
 
-Welcome to BAT9BROS.EXE
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=500&color=00FF66&center=true&vCenter=true&width=1000&lines=ARTIST.;CYBERSECURITY+DEVELOPER.;CREATING+THINGS+THAT+SHOULD+NOT+EXIST.;ERROR:+REALITY+NOT+FOUND."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Artist.;Cybersecurity+Developer.;Control+Center+Music.;Still+working+while+everyone+sleeps."/>
 
 </div>
 
 ---
 
-# // IDENTITY.LOG
+## /about
 
-```rust
-pub struct BAT9BROS {
-    role: ["Artist", "Cybersecurity Developer"],
-    status: "Online",
-    location: "Unknown",
-    sanity: false,
-    mission: "Create. Destroy. Improve. Repeat."
-}
+i'm an artist and developer focused on building tools, creating music and turning random ideas into real projects.
+
+currently studying cybersecurity, developing software and releasing music under the name **bat9bros**.
+
+---
+
+## /projects
+
+### Control Center Music
+
+offline music production manager built for producers.
+
+features:
+
+- project organization
+- track management
+- workflow optimization
+- fast local access
+
+---
+
+### AI Launch Nexus
+
+college project focused on AI-powered web technologies.
+
+---
+
+## /stack
+
+```txt
+Languages
+
+C#
+JavaScript
+Python
+HTML
+CSS
+
+Tools
+
+Git
+GitHub
+VS Code
 ```
 
 ---
 
-# // SYSTEM STATUS
+## /now
 
-```diff
-+ MUSIC PRODUCTION ACTIVE
-+ PROJECT DEVELOPMENT ACTIVE
-+ BRAIN OVERCLOCKED
-+ CAFFEINE LEVEL CRITICAL
+```txt
+[+] writing code
+[+] making beats
+[+] learning cybersecurity
+[+] shipping projects
 
-- SLEEP NOT FOUND
-- NORMAL LIFE NOT FOUND
+[-] touching grass
 ```
 
 ---
 
-# // ARSENAL
+## /stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,js,html,css,python,git,github,vscode"/>
+![](https://github-readme-stats.vercel.app/api?username=bat9bros&show_icons=true&hide_border=true&bg_color=00000000)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bat9bros&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bat9bros&layout=compact&hide_border=true&bg_color=00000000)
 
 </div>
 
 ---
 
-# // CLASSIFIED PROJECTS
+## /links
 
-## 🎹 CONTROL CENTER MUSIC
+telegram
 
-```txt
-███████████████████████████████████████████
+https://t.me/bat9bros
 
-OFFLINE MUSIC PRODUCTION MANAGER
+beats
 
-> organize projects
-> manage tracks
-> optimize workflow
-> built by a producer for producers
+https://t.me/bat9bros_beats
 
-███████████████████████████████████████████
-```
+soundcloud
 
----
+https://soundcloud.com/hayp-143
 
-## 🤖 AI LAUNCH NEXUS
+genius
 
-```txt
-███████████████████████████████████████████
+https://genius.com/bat9bros
 
-COLLEGE PROJECT
+support
 
-AI WEB PLATFORM
-
-STATUS: EXPERIMENTAL
-
-███████████████████████████████████████████
-```
+https://www.donationalerts.com/r/bat9bros
 
 ---
 
-# // LIVE FEED
-
 ```txt
-03:12 AM
+2026
 
-monitor glow
-808s shaking the room
-code compiling
-brain deteriorating
-
-everything normal
-```
-
----
-
-# // NETWORK ACCESS
-
-```txt
-TELEGRAM      :: https://t.me/bat9bros
-BEATS         :: https://t.me/bat9bros_beats
-SOUNDCLOUD    :: https://soundcloud.com/hayp-143
-GENIUS        :: https://genius.com/bat9bros
-SUPPORT       :: https://www.donationalerts.com/r/bat9bros
-```
-
----
-
-# // TELEMETRY
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=bat9bros&show_icons=true&theme=chartreuse-dark&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=bat9bros&theme=chartreuse-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bat9bros&layout=compact&theme=chartreuse-dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-THEY ASKED:
-
-"WHY CODE?"
-
-I ASKED:
-
-"WHY BREATHE?"
-```
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-END OF TRANSMISSION
-
-SIGNAL LOST
+still building.
+still learning.
+still creating.
 ```
 
 </div>
