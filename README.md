@@ -1,123 +1,130 @@
 <div align="center">
 
-# bat9bros
+# BAT9BROS
 
-making music, building software, documenting the process.
+```txt
+┌──────────────────────────────────────────────┐
+│ SYSTEM ONLINE                                │
+│ STATUS: ACTIVE                               │
+│ ROLE: ARTIST / CYBERSECURITY DEVELOPER       │
+│ LOCATION: SOMEWHERE IN THE VOID              │
+└──────────────────────────────────────────────┘
+```
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Artist.;Cybersecurity+Developer.;Control+Center+Music.;Still+working+while+everyone+sleeps."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=ARTIST.;CYBERSECURITY+DEVELOPER.;BUILDING+STRANGE+THINGS.;MAKING+LOUD+MUSIC.;WELCOME+TO+THE+SYSTEM."/>
 
 </div>
 
 ---
 
-## /about
+# WHO AM I
 
-i'm an artist and developer focused on building tools, creating music and turning random ideas into real projects.
+```yaml
+name: BAT9BROS
+class: Human
+occupation:
+  - Artist
+  - Cybersecurity Developer
 
-currently studying cybersecurity, developing software and releasing music under the name **bat9bros**.
+current_status:
+  - creating software
+  - producing music
+  - surviving reality
 
----
-
-## /projects
-
-### Control Center Music
-
-offline music production manager built for producers.
-
-features:
-
-- project organization
-- track management
-- workflow optimization
-- fast local access
-
----
-
-### AI Launch Nexus
-
-college project focused on AI-powered web technologies.
-
----
-
-## /stack
-
-```txt
-Languages
-
-C#
-JavaScript
-Python
-HTML
-CSS
-
-Tools
-
-Git
-GitHub
-VS Code
+goal:
+  - build legendary projects
+  - perform on huge stages
+  - leave digital footprints
 ```
 
 ---
 
-## /now
+# TECH STACK
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,js,html,css,python,vscode,git,github"/>
+
+</p>
+
+---
+
+# PROJECTS
+
+## 🎹 CONTROL CENTER MUSIC
 
 ```txt
-[+] writing code
-[+] making beats
-[+] learning cybersecurity
-[+] shipping projects
+[ OFFLINE MUSIC PRODUCTION MANAGER ]
 
-[-] touching grass
+✓ Track organization
+✓ Music workflow management
+✓ Fast access to projects
+✓ Built for producers
 ```
 
 ---
 
-## /stats
+## 🤖 AI LAUNCH NEXUS
+
+```txt
+[ COLLEGE PROJECT ]
+
+> AI-based web platform
+> Experimental concepts
+> Learning by building
+```
+
+---
+
+# CURRENT TRANSMISSION
+
+```txt
+> listening to distorted 808s
+> writing code at 3 AM
+> turning ideas into projects
+> pretending everything is under control
+```
+
+---
+
+# DIGITAL FOOTPRINT
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=bat9bros&show_icons=true&hide_border=true&bg_color=00000000)
+[ TELEGRAM ](https://t.me/bat9bros)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bat9bros&hide_border=true)
+[ BEATS ](https://t.me/bat9bros_beats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bat9bros&layout=compact&hide_border=true&bg_color=00000000)
+[ SOUNDCLOUD ](https://soundcloud.com/hayp-143)
+
+[ GENIUS ](https://genius.com/bat9bros)
+
+[ SUPPORT ](https://www.donationalerts.com/r/bat9bros)
 
 </div>
 
 ---
 
-## /links
+<div align="center">
 
-telegram
+## SYSTEM METRICS
 
-https://t.me/bat9bros
+![](https://github-readme-stats.vercel.app/api?username=bat9bros&show_icons=true&theme=tokyonight&hide_border=true)
 
-beats
+![](https://github-readme-streak-stats.herokuapp.com/?user=bat9bros&theme=tokyonight&hide_border=true)
 
-https://t.me/bat9bros_beats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bat9bros&layout=compact&theme=tokyonight&hide_border=true)
 
-soundcloud
-
-https://soundcloud.com/hayp-143
-
-genius
-
-https://genius.com/bat9bros
-
-support
-
-https://www.donationalerts.com/r/bat9bros
+</div>
 
 ---
 
-```txt
-2026
+<div align="center">
 
-still building.
-still learning.
-still creating.
+```txt
+NO GODS.
+NO MASTERS.
+ONLY CODE AND MUSIC.
 ```
 
 </div>
